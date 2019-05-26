@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://3t-e9i.tobilastik.gameapps.exp.direct",
+  "packagerNgrokUrl": "https://packager.3t-e9i.tobilastik.gameapps.exp.direct",
+  "ngrokPid": 17176,
+  "packagerPort": 19001,
+  "packagerPid": 12636,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
